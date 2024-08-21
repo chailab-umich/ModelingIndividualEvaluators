@@ -1,0 +1,8 @@
+[project]
+name = "MIA"
+version = "1.0.0"
+description = "The Whole Is Bigger Than the Sum of Its Parts: Modeling Individual Annotators to Capture"
+
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = ["flit_core >=3.2,<4"]
